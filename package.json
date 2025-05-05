@@ -1,9 +1,9 @@
 {
   "name": "playground",
   "version": "1.0.0",
-  "main": "main.js",
+  "main": "index.js",
   "scripts": {
-    "dev": "nodemon main.js"
+    "dev": "nodemon index.js"
   },
   "keywords": [],
   "author": "",
